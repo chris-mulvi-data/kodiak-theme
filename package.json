@@ -1,0 +1,21 @@
+{
+  "name": "kodiak",
+  "displayName": "kodiak",
+  "description": "a middle gray theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "kodiak",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kodiak-color-theme.json"
+      }
+    ]
+  }
+}
