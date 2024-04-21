@@ -18,5 +18,6 @@
             }
         ]
     },
-    "repository": "https://github.com/chris-mulvi-data/kodiak-theme"
+    "repository": "https://github.com/chris-mulvi-data/kodiak-theme",
+    "publisher": "Kodiak-Theme"
 }
